@@ -1,4 +1,9 @@
+//Name and other details of contributers are given below
 # Contributors
+#### Name: [Hannah Campbelli](https://github.com/hannahckc)
+- Place: Cambridge, England
+- Bio: Aspiring web developer
+- GitHub: [Hannah Campbell](https://github.com/hannahckc)
 
 #### Name: [Yashasvi](https://github.com/kmryashasvi)
 - Place: Siwan, India
@@ -299,7 +304,7 @@
 
 #### Name: [Wan Adri](https://github.com/wanadri)
 - Place: Malaysia
-- Bio: A programmer that never stop learning.
+- Bio: A programmer that never stops learning.
 - GitHub: [Wan Adri](https://github.com/wanadri)
 
 #### Name: [Subham Sahu](https://www.linkedin.com/in/subhamX/)
@@ -309,7 +314,7 @@
 
 #### Name: [Adeyoriju Olabode Wilson](https://github.com/whilson03/)
 - Place: Lagos, Nigeria
-- Bio: Am Computer science student who is passionate about problem solving?
+- Bio: Am Computer science student who is passionate about problem solving.
 - GitHub: [whilson03](https://github.com/whilson03/)
 
 #### Name: [Jeethendra Balaji](https://github.com/JeeBoomBoi)
@@ -319,7 +324,7 @@
 
 #### Name: [Hari Om](https://github.com/BuzzHari)
 - Place: Bangalore, India 
-- Bio: Just a guy on the internet.
+- Bio: Just a guy on the Internet.
 - GitHub: [Hari Om](https://github.com/BuzzHari)
 
 #### Name: [Tathagata Paul](https://github.com/4molybdenum2)
@@ -384,7 +389,7 @@
 
 #### Name: [Ziane Maamar](https://github.com/drxdesign)
 - Place: Tipaza, Alegria
-- Bio: Hello my name is Ziane Maamar and I am a 27 year old self-taught Web and Graphics Designer. Road to #FullStack Developer #Pythoneer
+- Bio: Hello my name is Ziane Maamar, I am a 27 year old self-taught Web and Graphics Designer. Road to #FullStack Developer #Pythoneer
 - GitHub: [DRXDESIGN](https://github.com/drxdesign)
 
 #### Name: [V Patil](https://github.com/vpatiltech)
@@ -409,7 +414,7 @@
 
 #### Name: [Abhishek Patel](https://github.com/ABHI-PATEL1812)
 - Place: Rajkot, India
-- Bio: student
+- Bio: Student
 - GitHub: [ABHI-PATEL1812](https://github.com/ABHI-PATEL1812)
 
 #### Name: [EntwicklerSherr](https://github.com/EntwicklerSherr)
